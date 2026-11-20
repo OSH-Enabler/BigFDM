@@ -1,0 +1,26 @@
+# The version of the .oshop.toml schema.
+version = "2026-08-10"
+
+# Link to the root directory of your project’s repository.
+repository = "https://github.com/OSH-Enabler/BigFDM/"
+
+# The name of your project.
+name = "BigFDM"
+
+# (optional) The licenses of your project. Possible values are the SPDX IDs according to https://spdx.org/licenses.
+licenses = ["CERN-OHL-W-2.0"]
+
+# (optional) Link to the documentation of your project.
+documentation = "https://github.com/OSH-Enabler/BigFDM/blob/master/README.md"
+
+# (optional) Link to the issue/bug tracker of your project.
+issues = "https://github.com/OSH-Enabler/BigFDM/issues"
+
+# (optional) Link to the releases of your project.
+releases = "https://github.com/OSH-Enabler/BigFDM/releases"
+
+# (optional) Link to the hardware bill of material of your project.
+bom = "https://github.com/OSH-Enabler/BigFDM/blob/master/docs/BigFDM%20BOM.pdf"
+
+# (optional) Useful keywords for your project (e.g. "Electronics", "3D-Printing", "Wearables", "Art", "Education", "Tools", "Furniture", ...)
+keywords = ["printing-3d", "tools"]
